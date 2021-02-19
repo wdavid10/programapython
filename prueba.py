@@ -1,0 +1,1 @@
+print("Ingrese un dato")
